@@ -1,0 +1,3002 @@
+﻿<xml>
+    <kanji key='一'>
+        <meaning>one</meaning>
+    </kanji>
+    <kanji key='二'>
+        <meaning>two</meaning>
+    </kanji>
+    <kanji key='三'>
+        <meaning>three</meaning>
+    </kanji>
+    <kanji key='四'>
+        <meaning>four</meaning>
+    </kanji>
+    <kanji key='五'>
+        <meaning>five</meaning>
+    </kanji>
+    <kanji key='六'>
+        <meaning>six</meaning>
+    </kanji>
+    <kanji key='七'>
+        <meaning>seven</meaning>
+    </kanji>
+    <kanji key='八'>
+        <meaning>eight</meaning>
+    </kanji>
+    <kanji key='九'>
+        <meaning>nine</meaning>
+    </kanji>
+    <kanji key='十'>
+        <meaning>ten</meaning>
+    </kanji>
+    <kanji key='百'>
+        <meaning>hundred</meaning>
+    </kanji>
+    <kanji key='千'>
+        <meaning>thousand</meaning>
+    </kanji>
+    <kanji key='万'>
+        <meaning>ten thousand</meaning>
+    </kanji>
+    <kanji key='父'>
+        <meaning>father</meaning>
+    </kanji>
+    <kanji key='母'>
+        <meaning>mother</meaning>
+    </kanji>
+    <kanji key='友'>
+        <meaning>friend</meaning>
+    </kanji>
+    <kanji key='女'>
+        <meaning>woman</meaning>
+    </kanji>
+    <kanji key='男'>
+        <meaning>man</meaning>
+    </kanji>
+    <kanji key='人'>
+        <meaning>person</meaning>
+    </kanji>
+    <kanji key='子'>
+        <meaning>child</meaning>
+    </kanji>
+    <kanji key='日'>
+        <meaning>day</meaning>
+    </kanji>
+    <kanji key='月'>
+        <meaning>month</meaning>
+    </kanji>
+    <kanji key='火'>
+        <meaning>fire</meaning>
+    </kanji>
+    <kanji key='水'>
+        <meaning>water</meaning>
+    </kanji>
+    <kanji key='木'>
+        <meaning>tree</meaning>
+    </kanji>
+    <kanji key='金'>
+        <meaning>gold</meaning>
+    </kanji>
+    <kanji key='土'>
+        <meaning>soil</meaning>
+    </kanji>
+    <kanji key='本'>
+        <meaning>book</meaning>
+    </kanji>
+    <kanji key='休'>
+        <meaning>rest</meaning>
+    </kanji>
+    <kanji key='語'>
+        <meaning>language</meaning>
+    </kanji>
+    <kanji key='年'>
+        <meaning>year</meaning>
+    </kanji>
+    <kanji key='午'>
+        <meaning>noon</meaning>
+    </kanji>
+    <kanji key='前'>
+        <meaning>before</meaning>
+    </kanji>
+    <kanji key='後'>
+        <meaning>behind</meaning>
+    </kanji>
+    <kanji key='時'>
+        <meaning>time</meaning>
+    </kanji>
+    <kanji key='間'>
+        <meaning>interval</meaning>
+    </kanji>
+    <kanji key='毎'>
+        <meaning>every</meaning>
+    </kanji>
+    <kanji key='先'>
+        <meaning>previous</meaning>
+    </kanji>
+    <kanji key='今'>
+        <meaning>now</meaning>
+    </kanji>
+    <kanji key='何'>
+        <meaning>what</meaning>
+    </kanji>
+    <kanji key='上'>
+        <meaning>up</meaning>
+    </kanji>
+    <kanji key='下'>
+        <meaning>below</meaning>
+    </kanji>
+    <kanji key='左'>
+        <meaning>left</meaning>
+    </kanji>
+    <kanji key='右'>
+        <meaning>right</meaning>
+    </kanji>
+    <kanji key='東'>
+        <meaning>east</meaning>
+    </kanji>
+    <kanji key='西'>
+        <meaning>west</meaning>
+    </kanji>
+    <kanji key='南'>
+        <meaning>south</meaning>
+    </kanji>
+    <kanji key='北'>
+        <meaning>north</meaning>
+    </kanji>
+    <kanji key='外'>
+        <meaning>outside</meaning>
+    </kanji>
+    <kanji key='名'>
+        <meaning>name</meaning>
+    </kanji>
+    <kanji key='高'>
+        <meaning>high</meaning>
+    </kanji>
+    <kanji key='小'>
+        <meaning>small</meaning>
+    </kanji>
+    <kanji key='中'>
+        <meaning>middle</meaning>
+    </kanji>
+    <kanji key='大'>
+        <meaning>big</meaning>
+    </kanji>
+    <kanji key='長'>
+        <meaning>long</meaning>
+    </kanji>
+    <kanji key='半'>
+        <meaning>half</meaning>
+    </kanji>
+    <kanji key='分'>
+        <meaning>part</meaning>
+    </kanji>
+    <kanji key='学'>
+        <meaning>study</meaning>
+    </kanji>
+    <kanji key='校'>
+        <meaning>school</meaning>
+    </kanji>
+    <kanji key='生'>
+        <meaning>life</meaning>
+    </kanji>
+    <kanji key='山'>
+        <meaning>mountain</meaning>
+    </kanji>
+    <kanji key='川'>
+        <meaning>river</meaning>
+    </kanji>
+    <kanji key='白'>
+        <meaning>white</meaning>
+    </kanji>
+    <kanji key='天'>
+        <meaning>heaven</meaning>
+    </kanji>
+    <kanji key='雨'>
+        <meaning>rain</meaning>
+    </kanji>
+    <kanji key='電'>
+        <meaning>electricity</meaning>
+    </kanji>
+    <kanji key='気'>
+        <meaning>spirit</meaning>
+    </kanji>
+    <kanji key='車'>
+        <meaning>vehicle</meaning>
+    </kanji>
+    <kanji key='国'>
+        <meaning>country</meaning>
+    </kanji>
+    <kanji key='円'>
+        <meaning>circle</meaning>
+    </kanji>
+    <kanji key='話'>
+        <meaning>talk</meaning>
+    </kanji>
+    <kanji key='聞'>
+        <meaning>hear</meaning>
+    </kanji>
+    <kanji key='食'>
+        <meaning>eat</meaning>
+    </kanji>
+    <kanji key='読'>
+        <meaning>read</meaning>
+    </kanji>
+    <kanji key='来'>
+        <meaning>come</meaning>
+    </kanji>
+    <kanji key='書'>
+        <meaning>write</meaning>
+    </kanji>
+    <kanji key='見'>
+        <meaning>see</meaning>
+    </kanji>
+    <kanji key='行'>
+        <meaning>go</meaning>
+    </kanji>
+    <kanji key='出'>
+        <meaning>exit</meaning>
+    </kanji>
+    <kanji key='入'>
+        <meaning>enter</meaning>
+    </kanji>
+    <kanji key='会'>
+        <meaning>meeting</meaning>
+    </kanji>
+    <kanji key='青'>
+        <meaning>blue</meaning>
+    </kanji>
+    <kanji key='赤'>
+        <meaning>red</meaning>
+    </kanji>
+    <kanji key='明'>
+        <meaning>bright</meaning>
+    </kanji>
+    <kanji key='秋'>
+        <meaning>autumn</meaning>
+    </kanji>
+    <kanji key='空'>
+        <meaning>sky</meaning>
+    </kanji>
+    <kanji key='開'>
+        <meaning>open</meaning>
+    </kanji>
+    <kanji key='悪'>
+        <meaning>bad</meaning>
+    </kanji>
+    <kanji key='朝'>
+        <meaning>morning</meaning>
+    </kanji>
+    <kanji key='字'>
+        <meaning>character</meaning>
+    </kanji>
+    <kanji key='足'>
+        <meaning>foot</meaning>
+    </kanji>
+    <kanji key='味'>
+        <meaning>taste</meaning>
+    </kanji>
+    <kanji key='新'>
+        <meaning>new</meaning>
+    </kanji>
+    <kanji key='集'>
+        <meaning>collect</meaning>
+    </kanji>
+    <kanji key='兄'>
+        <meaning>older brother</meaning>
+    </kanji>
+    <kanji key='姉'>
+        <meaning>older sister</meaning>
+    </kanji>
+    <kanji key='歩'>
+        <meaning>walk</meaning>
+    </kanji>
+    <kanji key='有'>
+        <meaning>have</meaning>
+    </kanji>
+    <kanji key='安'>
+        <meaning>peaceful</meaning>
+    </kanji>
+    <kanji key='医'>
+        <meaning>medicine</meaning>
+    </kanji>
+    <kanji key='意'>
+        <meaning>idea</meaning>
+    </kanji>
+    <kanji key='以'>
+        <meaning>by means of</meaning>
+    </kanji>
+    <kanji key='言'>
+        <meaning>say</meaning>
+    </kanji>
+    <kanji key='家'>
+        <meaning>house</meaning>
+    </kanji>
+    <kanji key='急'>
+        <meaning>hurry</meaning>
+    </kanji>
+    <kanji key='犬'>
+        <meaning>dog</meaning>
+    </kanji>
+    <kanji key='妹'>
+        <meaning>younger sister</meaning>
+    </kanji>
+    <kanji key='色'>
+        <meaning>color</meaning>
+    </kanji>
+    <kanji key='音'>
+        <meaning>sound</meaning>
+    </kanji>
+    <kanji key='員'>
+        <meaning>member</meaning>
+    </kanji>
+    <kanji key='院'>
+        <meaning>institution</meaning>
+    </kanji>
+    <kanji key='飲'>
+        <meaning>drink</meaning>
+    </kanji>
+    <kanji key='魚'>
+        <meaning>fish</meaning>
+    </kanji>
+    <kanji key='動'>
+        <meaning>move</meaning>
+    </kanji>
+    <kanji key='牛'>
+        <meaning>cow</meaning>
+    </kanji>
+    <kanji key='歌'>
+        <meaning>song</meaning>
+    </kanji>
+    <kanji key='写'>
+        <meaning>copy</meaning>
+    </kanji>
+    <kanji key='映'>
+        <meaning>projection</meaning>
+    </kanji>
+    <kanji key='海'>
+        <meaning>sea</meaning>
+    </kanji>
+    <kanji key='売'>
+        <meaning>sell</meaning>
+    </kanji>
+    <kanji key='運'>
+        <meaning>carry</meaning>
+    </kanji>
+    <kanji key='重'>
+        <meaning>heavy</meaning>
+    </kanji>
+    <kanji key='英'>
+        <meaning>England</meaning>
+    </kanji>
+    <kanji key='駅'>
+        <meaning>station</meaning>
+    </kanji>
+    <kanji key='終'>
+        <meaning>end</meaning>
+    </kanji>
+    <kanji key='多'>
+        <meaning>many</meaning>
+    </kanji>
+    <kanji key='起'>
+        <meaning>get up</meaning>
+    </kanji>
+    <kanji key='屋'>
+        <meaning>shop</meaning>
+    </kanji>
+    <kanji key='送'>
+        <meaning>send</meaning>
+    </kanji>
+    <kanji key='教'>
+        <meaning>teach</meaning>
+    </kanji>
+    <kanji key='弟'>
+        <meaning>younger brother</meaning>
+    </kanji>
+    <kanji key='同'>
+        <meaning>same</meaning>
+    </kanji>
+    <kanji key='主'>
+        <meaning>master</meaning>
+    </kanji>
+    <kanji key='思'>
+        <meaning>think</meaning>
+    </kanji>
+    <kanji key='親'>
+        <meaning>parent</meaning>
+    </kanji>
+    <kanji key='花'>
+        <meaning>flower</meaning>
+    </kanji>
+    <kanji key='夏'>
+        <meaning>summer</meaning>
+    </kanji>
+    <kanji key='画'>
+        <meaning>picture</meaning>
+    </kanji>
+    <kanji key='界'>
+        <meaning>world</meaning>
+    </kanji>
+    <kanji key='買'>
+        <meaning>buy</meaning>
+    </kanji>
+    <kanji key='帰'>
+        <meaning>return</meaning>
+    </kanji>
+    <kanji key='代'>
+        <meaning>substitute</meaning>
+    </kanji>
+    <kanji key='楽'>
+        <meaning>ease</meaning>
+    </kanji>
+    <kanji key='風'>
+        <meaning>wind</meaning>
+    </kanji>
+    <kanji key='貸'>
+        <meaning>lend</meaning>
+    </kanji>
+    <kanji key='方'>
+        <meaning>direction</meaning>
+    </kanji>
+    <kanji key='紙'>
+        <meaning>paper</meaning>
+    </kanji>
+    <kanji key='通'>
+        <meaning>pass through</meaning>
+    </kanji>
+    <kanji key='体'>
+        <meaning>body</meaning>
+    </kanji>
+    <kanji key='借'>
+        <meaning>borrow</meaning>
+    </kanji>
+    <kanji key='漢'>
+        <meaning>China</meaning>
+    </kanji>
+    <kanji key='館'>
+        <meaning>building</meaning>
+    </kanji>
+    <kanji key='元'>
+        <meaning>origin</meaning>
+    </kanji>
+    <kanji key='考'>
+        <meaning>consider</meaning>
+    </kanji>
+    <kanji key='着'>
+        <meaning>wear</meaning>
+    </kanji>
+    <kanji key='究'>
+        <meaning>research</meaning>
+    </kanji>
+    <kanji key='去'>
+        <meaning>gone</meaning>
+    </kanji>
+    <kanji key='京'>
+        <meaning>capital</meaning>
+    </kanji>
+    <kanji key='強'>
+        <meaning>strong</meaning>
+    </kanji>
+    <kanji key='業'>
+        <meaning>business</meaning>
+    </kanji>
+    <kanji key='切'>
+        <meaning>cut</meaning>
+    </kanji>
+    <kanji key='近'>
+        <meaning>near</meaning>
+    </kanji>
+    <kanji key='銀'>
+        <meaning>silver</meaning>
+    </kanji>
+    <kanji key='口'>
+        <meaning>mouth</meaning>
+    </kanji>
+    <kanji key='工'>
+        <meaning>craft</meaning>
+    </kanji>
+    <kanji key='黒'>
+        <meaning>black</meaning>
+    </kanji>
+    <kanji key='計'>
+        <meaning>plan</meaning>
+    </kanji>
+    <kanji key='研'>
+        <meaning>study</meaning>
+    </kanji>
+    <kanji key='建'>
+        <meaning>build</meaning>
+    </kanji>
+    <kanji key='験'>
+        <meaning>test</meaning>
+    </kanji>
+    <kanji key='古'>
+        <meaning>old</meaning>
+    </kanji>
+    <kanji key='広'>
+        <meaning>wide</meaning>
+    </kanji>
+    <kanji key='心'>
+        <meaning>heart</meaning>
+    </kanji>
+    <kanji key='試'>
+        <meaning>try</meaning>
+    </kanji>
+    <kanji key='答'>
+        <meaning>answer</meaning>
+    </kanji>
+    <kanji key='事'>
+        <meaning>matter</meaning>
+    </kanji>
+    <kanji key='転'>
+        <meaning>revolve</meaning>
+    </kanji>
+    <kanji key='作'>
+        <meaning>make</meaning>
+    </kanji>
+    <kanji key='茶'>
+        <meaning>tea</meaning>
+    </kanji>
+    <kanji key='早'>
+        <meaning>early</meaning>
+    </kanji>
+    <kanji key='止'>
+        <meaning>stop</meaning>
+    </kanji>
+    <kanji key='自'>
+        <meaning>self</meaning>
+    </kanji>
+    <kanji key='仕'>
+        <meaning>attend</meaning>
+    </kanji>
+    <kanji key='死'>
+        <meaning>death</meaning>
+    </kanji>
+    <kanji key='始'>
+        <meaning>begin</meaning>
+    </kanji>
+    <kanji key='使'>
+        <meaning>use</meaning>
+    </kanji>
+    <kanji key='私'>
+        <meaning>private</meaning>
+    </kanji>
+    <kanji key='地'>
+        <meaning>ground</meaning>
+    </kanji>
+    <kanji key='持'>
+        <meaning>hold</meaning>
+    </kanji>
+    <kanji key='質'>
+        <meaning>quality</meaning>
+    </kanji>
+    <kanji key='室'>
+        <meaning>room</meaning>
+    </kanji>
+    <kanji key='品'>
+        <meaning>goods</meaning>
+    </kanji>
+    <kanji key='社'>
+        <meaning>company</meaning>
+    </kanji>
+    <kanji key='者'>
+        <meaning>person</meaning>
+    </kanji>
+    <kanji key='手'>
+        <meaning>hand</meaning>
+    </kanji>
+    <kanji key='週'>
+        <meaning>week</meaning>
+    </kanji>
+    <kanji key='習'>
+        <meaning>learn</meaning>
+    </kanji>
+    <kanji key='住'>
+        <meaning>dwelling</meaning>
+    </kanji>
+    <kanji key='春'>
+        <meaning>spring</meaning>
+    </kanji>
+    <kanji key='正'>
+        <meaning>correct</meaning>
+    </kanji>
+    <kanji key='少'>
+        <meaning>few</meaning>
+    </kanji>
+    <kanji key='場'>
+        <meaning>place</meaning>
+    </kanji>
+    <kanji key='知'>
+        <meaning>know</meaning>
+    </kanji>
+    <kanji key='真'>
+        <meaning>true</meaning>
+    </kanji>
+    <kanji key='図'>
+        <meaning>drawing</meaning>
+    </kanji>
+    <kanji key='世'>
+        <meaning>generation</meaning>
+    </kanji>
+    <kanji key='夕'>
+        <meaning>evening</meaning>
+    </kanji>
+    <kanji key='走'>
+        <meaning>run</meaning>
+    </kanji>
+    <kanji key='族'>
+        <meaning>tribe</meaning>
+    </kanji>
+    <kanji key='注'>
+        <meaning>pour</meaning>
+    </kanji>
+    <kanji key='田'>
+        <meaning>rice field</meaning>
+    </kanji>
+    <kanji key='台'>
+        <meaning>pedestal</meaning>
+    </kanji>
+    <kanji key='待'>
+        <meaning>wait</meaning>
+    </kanji>
+    <kanji key='題'>
+        <meaning>subject</meaning>
+    </kanji>
+    <kanji key='度'>
+        <meaning>degree</meaning>
+    </kanji>
+    <kanji key='立'>
+        <meaning>stand up</meaning>
+    </kanji>
+    <kanji key='旅'>
+        <meaning>travel</meaning>
+    </kanji>
+    <kanji key='力'>
+        <meaning>power</meaning>
+    </kanji>
+    <kanji key='昼'>
+        <meaning>daytime</meaning>
+    </kanji>
+    <kanji key='町'>
+        <meaning>town</meaning>
+    </kanji>
+    <kanji key='鳥'>
+        <meaning>bird</meaning>
+    </kanji>
+    <kanji key='店'>
+        <meaning>shop</meaning>
+    </kanji>
+    <kanji key='問'>
+        <meaning>question</meaning>
+    </kanji>
+    <kanji key='冬'>
+        <meaning>winter</meaning>
+    </kanji>
+    <kanji key='道'>
+        <meaning>way</meaning>
+    </kanji>
+    <kanji key='堂'>
+        <meaning>hall</meaning>
+    </kanji>
+    <kanji key='特'>
+        <meaning>special</meaning>
+    </kanji>
+    <kanji key='肉'>
+        <meaning>meat</meaning>
+    </kanji>
+    <kanji key='野'>
+        <meaning>field</meaning>
+    </kanji>
+    <kanji key='発'>
+        <meaning>depart</meaning>
+    </kanji>
+    <kanji key='飯'>
+        <meaning>meal</meaning>
+    </kanji>
+    <kanji key='病'>
+        <meaning>sick</meaning>
+    </kanji>
+    <kanji key='不'>
+        <meaning>non</meaning>
+    </kanji>
+    <kanji key='服'>
+        <meaning>clothes</meaning>
+    </kanji>
+    <kanji key='物'>
+        <meaning>thing</meaning>
+    </kanji>
+    <kanji key='文'>
+        <meaning>writing</meaning>
+    </kanji>
+    <kanji key='別'>
+        <meaning>separate</meaning>
+    </kanji>
+    <kanji key='勉'>
+        <meaning>effort</meaning>
+    </kanji>
+    <kanji key='目'>
+        <meaning>eye</meaning>
+    </kanji>
+    <kanji key='用'>
+        <meaning>use</meaning>
+    </kanji>
+    <kanji key='夜'>
+        <meaning>night</meaning>
+    </kanji>
+    <kanji key='曜'>
+        <meaning>weekday</meaning>
+    </kanji>
+    <kanji key='洋'>
+        <meaning>western</meaning>
+    </kanji>
+    <kanji key='理'>
+        <meaning>reason</meaning>
+    </kanji>
+    <kanji key='料'>
+        <meaning>fee</meaning>
+    </kanji>
+    <kanji key='相'>
+        <meaning>mutual</meaning>
+    </kanji>
+    <kanji key='愛'>
+        <meaning>love</meaning>
+    </kanji>
+    <kanji key='合'>
+        <meaning>fit</meaning>
+    </kanji>
+    <kanji key='商'>
+        <meaning>sell</meaning>
+    </kanji>
+    <kanji key='浅'>
+        <meaning>shallow</meaning>
+    </kanji>
+    <kanji key='預'>
+        <meaning>deposit</meaning>
+    </kanji>
+    <kanji key='汗'>
+        <meaning>sweat</meaning>
+    </kanji>
+    <kanji key='遊'>
+        <meaning>play</meaning>
+    </kanji>
+    <kanji key='値'>
+        <meaning>value</meaning>
+    </kanji>
+    <kanji key='与'>
+        <meaning>give</meaning>
+    </kanji>
+    <kanji key='温'>
+        <meaning>warm</meaning>
+    </kanji>
+    <kanji key='暖'>
+        <meaning>warmth</meaning>
+    </kanji>
+    <kanji key='頭'>
+        <meaning>head</meaning>
+    </kanji>
+    <kanji key='辺'>
+        <meaning>vicinity</meaning>
+    </kanji>
+    <kanji key='当'>
+        <meaning>hit</meaning>
+    </kanji>
+    <kanji key='圧'>
+        <meaning>pressure</meaning>
+    </kanji>
+    <kanji key='暑'>
+        <meaning>summer heat</meaning>
+    </kanji>
+    <kanji key='熱'>
+        <meaning>heat</meaning>
+    </kanji>
+    <kanji key='厚'>
+        <meaning>thick</meaning>
+    </kanji>
+    <kanji key='跡'>
+        <meaning>remains</meaning>
+    </kanji>
+    <kanji key='暴'>
+        <meaning>violent</meaning>
+    </kanji>
+    <kanji key='浴'>
+        <meaning>bathe</meaning>
+    </kanji>
+    <kanji key='危'>
+        <meaning>dangerous</meaning>
+    </kanji>
+    <kanji key='油'>
+        <meaning>oil</meaning>
+    </kanji>
+    <kanji key='脂'>
+        <meaning>lipid</meaning>
+    </kanji>
+    <kanji key='甘'>
+        <meaning>sweet</meaning>
+    </kanji>
+    <kanji key='余'>
+        <meaning>extra</meaning>
+    </kanji>
+    <kanji key='編'>
+        <meaning>edit</meaning>
+    </kanji>
+    <kanji key='過'>
+        <meaning>exceed</meaning>
+    </kanji>
+    <kanji key='誤'>
+        <meaning>mistake</meaning>
+    </kanji>
+    <kanji key='荒'>
+        <meaning>rough</meaning>
+    </kanji>
+    <kanji key='洗'>
+        <meaning>wash</meaning>
+    </kanji>
+    <kanji key='争'>
+        <meaning>contend</meaning>
+    </kanji>
+    <kanji key='改'>
+        <meaning>reform</meaning>
+    </kanji>
+    <kanji key='表'>
+        <meaning>table</meaning>
+    </kanji>
+    <kanji key='現'>
+        <meaning>current</meaning>
+    </kanji>
+    <kanji key='著'>
+        <meaning>renowned</meaning>
+    </kanji>
+    <kanji key='在'>
+        <meaning>exist</meaning>
+    </kanji>
+    <kanji key='暗'>
+        <meaning>dark</meaning>
+    </kanji>
+    <kanji key='委'>
+        <meaning>comittee</meaning>
+    </kanji>
+    <kanji key='衣'>
+        <meaning>garment</meaning>
+    </kanji>
+    <kanji key='囲'>
+        <meaning>surround</meaning>
+    </kanji>
+    <kanji key='位'>
+        <meaning>rank</meaning>
+    </kanji>
+    <kanji key='胃'>
+        <meaning>stomach</meaning>
+    </kanji>
+    <kanji key='易'>
+        <meaning>easy</meaning>
+    </kanji>
+    <kanji key='移'>
+        <meaning>transfer</meaning>
+    </kanji>
+    <kanji key='依'>
+        <meaning>depend on</meaning>
+    </kanji>
+    <kanji key='偉'>
+        <meaning>great</meaning>
+    </kanji>
+    <kanji key='違'>
+        <meaning>differ</meaning>
+    </kanji>
+    <kanji key='怒'>
+        <meaning>angry</meaning>
+    </kanji>
+    <kanji key='息'>
+        <meaning>breath</meaning>
+    </kanji>
+    <kanji key='域'>
+        <meaning>region</meaning>
+    </kanji>
+    <kanji key='勢'>
+        <meaning>force</meaning>
+    </kanji>
+    <kanji key='幾'>
+        <meaning>how many</meaning>
+    </kanji>
+    <kanji key='育'>
+        <meaning>raise</meaning>
+    </kanji>
+    <kanji key='戦'>
+        <meaning>war</meaning>
+    </kanji>
+    <kanji key='池'>
+        <meaning>pond</meaning>
+    </kanji>
+    <kanji key='勇'>
+        <meaning>courage</meaning>
+    </kanji>
+    <kanji key='石'>
+        <meaning>stone</meaning>
+    </kanji>
+    <kanji key='泉'>
+        <meaning>water spring</meaning>
+    </kanji>
+    <kanji key='忙'>
+        <meaning>busy</meaning>
+    </kanji>
+    <kanji key='板'>
+        <meaning>wood board</meaning>
+    </kanji>
+    <kanji key='痛'>
+        <meaning>pain</meaning>
+    </kanji>
+    <kanji key='抱'>
+        <meaning>hug</meaning>
+    </kanji>
+    <kanji key='頂'>
+        <meaning>summit</meaning>
+    </kanji>
+    <kanji key='市'>
+        <meaning>city</meaning>
+    </kanji>
+    <kanji key='糸'>
+        <meaning>thread</meaning>
+    </kanji>
+    <kanji key='営'>
+        <meaning>manage</meaning>
+    </kanji>
+    <kanji key='否'>
+        <meaning>denial</meaning>
+    </kanji>
+    <kanji key='命'>
+        <meaning>fate</meaning>
+    </kanji>
+    <kanji key='祈'>
+        <meaning>pray</meaning>
+    </kanji>
+    <kanji key='要'>
+        <meaning>need</meaning>
+    </kanji>
+    <kanji key='居'>
+        <meaning>reside</meaning>
+    </kanji>
+    <kanji key='岩'>
+        <meaning>rock</meaning>
+    </kanji>
+    <kanji key='祝'>
+        <meaning>celebrate</meaning>
+    </kanji>
+    <kanji key='引'>
+        <meaning>pull</meaning>
+    </kanji>
+    <kanji key='印'>
+        <meaning>mark</meaning>
+    </kanji>
+    <kanji key='因'>
+        <meaning>cause</meaning>
+    </kanji>
+    <kanji key='羽'>
+        <meaning>feather</meaning>
+    </kanji>
+    <kanji key='宇'>
+        <meaning>universe</meaning>
+    </kanji>
+    <kanji key='初'>
+        <meaning>first</meaning>
+    </kanji>
+    <kanji key='植'>
+        <meaning>plant</meaning>
+    </kanji>
+    <kanji key='伺'>
+        <meaning>inquire</meaning>
+    </kanji>
+    <kanji key='浮'>
+        <meaning>float</meaning>
+    </kanji>
+    <kanji key='受'>
+        <meaning>receive</meaning>
+    </kanji>
+    <kanji key='承'>
+        <meaning>acquiesce</meaning>
+    </kanji>
+    <kanji key='失'>
+        <meaning>lose</meaning>
+    </kanji>
+    <kanji key='薄'>
+        <meaning>thin</meaning>
+    </kanji>
+    <kanji key='疑'>
+        <meaning>doubt</meaning>
+    </kanji>
+    <kanji key='内'>
+        <meaning>inside</meaning>
+    </kanji>
+    <kanji key='打'>
+        <meaning>strike</meaning>
+    </kanji>
+    <kanji key='美'>
+        <meaning>beauty</meaning>
+    </kanji>
+    <kanji key='器'>
+        <meaning>utensil</meaning>
+    </kanji>
+    <kanji key='腕'>
+        <meaning>arm</meaning>
+    </kanji>
+    <kanji key='産'>
+        <meaning>product</meaning>
+    </kanji>
+    <kanji key='馬'>
+        <meaning>horse</meaning>
+    </kanji>
+    <kanji key='埋'>
+        <meaning>bury</meaning>
+    </kanji>
+    <kanji key='敬'>
+        <meaning>respect</meaning>
+    </kanji>
+    <kanji key='裏'>
+        <meaning>rear</meaning>
+    </kanji>
+    <kanji key='占'>
+        <meaning>occupation</meaning>
+    </kanji>
+    <kanji key='得'>
+        <meaning>gain</meaning>
+    </kanji>
+    <kanji key='絵'>
+        <meaning>picture</meaning>
+    </kanji>
+    <kanji key='回'>
+        <meaning>occurrences</meaning>
+    </kanji>
+    <kanji key='泳'>
+        <meaning>swim</meaning>
+    </kanji>
+    <kanji key='栄'>
+        <meaning>flourish</meaning>
+    </kanji>
+    <kanji key='永'>
+        <meaning>eternal</meaning>
+    </kanji>
+    <kanji key='鋭'>
+        <meaning>sharp</meaning>
+    </kanji>
+    <kanji key='役'>
+        <meaning>service</meaning>
+    </kanji>
+    <kanji key='液'>
+        <meaning>liquid</meaning>
+    </kanji>
+    <kanji key='枝'>
+        <meaning>branch</meaning>
+    </kanji>
+    <kanji key='越'>
+        <meaning>surpass</meaning>
+    </kanji>
+    <kanji key='笑'>
+        <meaning>laugh</meaning>
+    </kanji>
+    <kanji key='選'>
+        <meaning>choose</meaning>
+    </kanji>
+    <kanji key='園'>
+        <meaning>garden</meaning>
+    </kanji>
+    <kanji key='遠'>
+        <meaning>distant</meaning>
+    </kanji>
+    <kanji key='塩'>
+        <meaning>salt</meaning>
+    </kanji>
+    <kanji key='演'>
+        <meaning>perform</meaning>
+    </kanji>
+    <kanji key='延'>
+        <meaning>prolong</meaning>
+    </kanji>
+    <kanji key='煙'>
+        <meaning>smoke</meaning>
+    </kanji>
+    <kanji key='緒'>
+        <meaning>thong</meaning>
+    </kanji>
+    <kanji key='汚'>
+        <meaning>dirty</meaning>
+    </kanji>
+    <kanji key='和'>
+        <meaning>peace</meaning>
+    </kanji>
+    <kanji key='老'>
+        <meaning>old man</meaning>
+    </kanji>
+    <kanji key='負'>
+        <meaning>negative</meaning>
+    </kanji>
+    <kanji key='追'>
+        <meaning>chase</meaning>
+    </kanji>
+    <kanji key='王'>
+        <meaning>king</meaning>
+    </kanji>
+    <kanji key='黄'>
+        <meaning>yellow</meaning>
+    </kanji>
+    <kanji key='央'>
+        <meaning>center</meaning>
+    </kanji>
+    <kanji key='横'>
+        <meaning>sideways</meaning>
+    </kanji>
+    <kanji key='欧'>
+        <meaning>Europe</meaning>
+    </kanji>
+    <kanji key='押'>
+        <meaning>push</meaning>
+    </kanji>
+    <kanji key='奥'>
+        <meaning>interior</meaning>
+    </kanji>
+    <kanji key='犯'>
+        <meaning>crime</meaning>
+    </kanji>
+    <kanji key='拝'>
+        <meaning>worship</meaning>
+    </kanji>
+    <kanji key='補'>
+        <meaning>supplement</meaning>
+    </kanji>
+    <kanji key='置'>
+        <meaning>put</meaning>
+    </kanji>
+    <kanji key='億'>
+        <meaning>hundred million</meaning>
+    </kanji>
+    <kanji key='遅'>
+        <meaning>slow</meaning>
+    </kanji>
+    <kanji key='贈'>
+        <meaning>gift</meaning>
+    </kanji>
+    <kanji key='幼'>
+        <meaning>infancy</meaning>
+    </kanji>
+    <kanji key='治'>
+        <meaning>govern</meaning>
+    </kanji>
+    <kanji key='収'>
+        <meaning>income</meaning>
+    </kanji>
+    <kanji key='恐'>
+        <meaning>fear</meaning>
+    </kanji>
+    <kanji key='落'>
+        <meaning>fall</meaning>
+    </kanji>
+    <kanji key='夫'>
+        <meaning>husband</meaning>
+    </kanji>
+    <kanji key='訪'>
+        <meaning>visit</meaning>
+    </kanji>
+    <kanji key='踊'>
+        <meaning>dance</meaning>
+    </kanji>
+    <kanji key='各'>
+        <meaning>each</meaning>
+    </kanji>
+    <kanji key='帯'>
+        <meaning>sash</meaning>
+    </kanji>
+    <kanji key='覚'>
+        <meaning>memorize</meaning>
+    </kanji>
+    <kanji key='面'>
+        <meaning>face</meaning>
+    </kanji>
+    <kanji key='折'>
+        <meaning>fold</meaning>
+    </kanji>
+    <kanji key='降'>
+        <meaning>descend</meaning>
+    </kanji>
+    <kanji key='御'>
+        <meaning>honorable</meaning>
+    </kanji>
+    <kanji key='香'>
+        <meaning>incense</meaning>
+    </kanji>
+    <kanji key='科'>
+        <meaning>section</meaning>
+    </kanji>
+    <kanji key='化'>
+        <meaning>change</meaning>
+    </kanji>
+    <kanji key='荷'>
+        <meaning>baggage</meaning>
+    </kanji>
+    <kanji key='加'>
+        <meaning>add</meaning>
+    </kanji>
+    <kanji key='果'>
+        <meaning>fruit</meaning>
+    </kanji>
+    <kanji key='貨'>
+        <meaning>freight</meaning>
+    </kanji>
+    <kanji key='課'>
+        <meaning>section</meaning>
+    </kanji>
+    <kanji key='可'>
+        <meaning>possible</meaning>
+    </kanji>
+    <kanji key='河'>
+        <meaning>river</meaning>
+    </kanji>
+    <kanji key='菓'>
+        <meaning>candy</meaning>
+    </kanji>
+    <kanji key='靴'>
+        <meaning>shoes</meaning>
+    </kanji>
+    <kanji key='貝'>
+        <meaning>shell</meaning>
+    </kanji>
+    <kanji key='階'>
+        <meaning>floor</meaning>
+    </kanji>
+    <kanji key='械'>
+        <meaning>machine</meaning>
+    </kanji>
+    <kanji key='快'>
+        <meaning>pleasant</meaning>
+    </kanji>
+    <kanji key='解'>
+        <meaning>unravel</meaning>
+    </kanji>
+    <kanji key='灰'>
+        <meaning>ashes</meaning>
+    </kanji>
+    <kanji key='介'>
+        <meaning>mediate</meaning>
+    </kanji>
+    <kanji key='皆'>
+        <meaning>all</meaning>
+    </kanji>
+    <kanji key='害'>
+        <meaning>harm</meaning>
+    </kanji>
+    <kanji key='交'>
+        <meaning>mix</meaning>
+    </kanji>
+    <kanji key='返'>
+        <meaning>return</meaning>
+    </kanji>
+    <kanji key='省'>
+        <meaning>ministry</meaning>
+    </kanji>
+    <kanji key='変'>
+        <meaning>change</meaning>
+    </kanji>
+    <kanji key='替'>
+        <meaning>replace</meaning>
+    </kanji>
+    <kanji key='換'>
+        <meaning>exchange</meaning>
+    </kanji>
+    <kanji key='係'>
+        <meaning>connection</meaning>
+    </kanji>
+    <kanji key='掛'>
+        <meaning>hang</meaning>
+    </kanji>
+    <kanji key='限'>
+        <meaning>limit</meaning>
+    </kanji>
+    <kanji key='欠'>
+        <meaning>lack</meaning>
+    </kanji>
+    <kanji key='角'>
+        <meaning>angle</meaning>
+    </kanji>
+    <kanji key='客'>
+        <meaning>guest</meaning>
+    </kanji>
+    <kanji key='格'>
+        <meaning>status</meaning>
+    </kanji>
+    <kanji key='確'>
+        <meaning>certain</meaning>
+    </kanji>
+    <kanji key='革'>
+        <meaning>leather</meaning>
+    </kanji>
+    <kanji key='額'>
+        <meaning>amount</meaning>
+    </kanji>
+    <kanji key='賢'>
+        <meaning>wise</meaning>
+    </kanji>
+    <kanji key='数'>
+        <meaning>number</meaning>
+    </kanji>
+    <kanji key='形'>
+        <meaning>shape</meaning>
+    </kanji>
+    <kanji key='型'>
+        <meaning>type</meaning>
+    </kanji>
+    <kanji key='片'>
+        <meaning>one-sided</meaning>
+    </kanji>
+    <kanji key='肩'>
+        <meaning>shoulder</meaning>
+    </kanji>
+    <kanji key='固'>
+        <meaning>solid</meaning>
+    </kanji>
+    <kanji key='難'>
+        <meaning>difficult</meaning>
+    </kanji>
+    <kanji key='硬'>
+        <meaning>rigid</meaning>
+    </kanji>
+    <kanji key='堅'>
+        <meaning>firm</meaning>
+    </kanji>
+    <kanji key='傾'>
+        <meaning>incline</meaning>
+    </kanji>
+    <kanji key='勝'>
+        <meaning>win</meaning>
+    </kanji>
+    <kanji key='活'>
+        <meaning>active</meaning>
+    </kanji>
+    <kanji key='割'>
+        <meaning>divide</meaning>
+    </kanji>
+    <kanji key='担'>
+        <meaning>shouldering</meaning>
+    </kanji>
+    <kanji key='門'>
+        <meaning>gate</meaning>
+    </kanji>
+    <kanji key='悲'>
+        <meaning>sad</meaning>
+    </kanji>
+    <kanji key='必'>
+        <meaning>necessary</meaning>
+    </kanji>
+    <kanji key='彼'>
+        <meaning>he</meaning>
+    </kanji>
+    <kanji key='構'>
+        <meaning>construct</meaning>
+    </kanji>
+    <kanji key='神'>
+        <meaning>god</meaning>
+    </kanji>
+    <kanji key='髪'>
+        <meaning>hair</meaning>
+    </kanji>
+    <kanji key='辛'>
+        <meaning>spicy</meaning>
+    </kanji>
+    <kanji key='枯'>
+        <meaning>wither</meaning>
+    </kanji>
+    <kanji key='絡'>
+        <meaning>entwine</meaning>
+    </kanji>
+    <kanji key='軽'>
+        <meaning>lightweight</meaning>
+    </kanji>
+    <kanji key='皮'>
+        <meaning>skin</meaning>
+    </kanji>
+    <kanji key='側'>
+        <meaning>side</meaning>
+    </kanji>
+    <kanji key='乾'>
+        <meaning>dry</meaning>
+    </kanji>
+    <kanji key='寒'>
+        <meaning>cold</meaning>
+    </kanji>
+    <kanji key='感'>
+        <meaning>feeling</meaning>
+    </kanji>
+    <kanji key='完'>
+        <meaning>complete</meaning>
+    </kanji>
+    <kanji key='官'>
+        <meaning>government</meaning>
+    </kanji>
+    <kanji key='管'>
+        <meaning>pipe</meaning>
+    </kanji>
+    <kanji key='関'>
+        <meaning>relationship</meaning>
+    </kanji>
+    <kanji key='観'>
+        <meaning>view</meaning>
+    </kanji>
+    <kanji key='刊'>
+        <meaning>publish</meaning>
+    </kanji>
+    <kanji key='慣'>
+        <meaning>accustomed</meaning>
+    </kanji>
+    <kanji key='干'>
+        <meaning>dry</meaning>
+    </kanji>
+    <kanji key='巻'>
+        <meaning>roll up</meaning>
+    </kanji>
+    <kanji key='簡'>
+        <meaning>simple</meaning>
+    </kanji>
+    <kanji key='缶'>
+        <meaning>tin can</meaning>
+    </kanji>
+    <kanji key='患'>
+        <meaning>afflicted</meaning>
+    </kanji>
+    <kanji key='丸'>
+        <meaning>round</meaning>
+    </kanji>
+    <kanji key='岸'>
+        <meaning>beach</meaning>
+    </kanji>
+    <kanji key='願'>
+        <meaning>request</meaning>
+    </kanji>
+    <kanji key='含'>
+        <meaning>include</meaning>
+    </kanji>
+    <kanji key='記'>
+        <meaning>write down</meaning>
+    </kanji>
+    <kanji key='期'>
+        <meaning>period</meaning>
+    </kanji>
+    <kanji key='希'>
+        <meaning>rare</meaning>
+    </kanji>
+    <kanji key='季'>
+        <meaning>season</meaning>
+    </kanji>
+    <kanji key='喜'>
+        <meaning>joy</meaning>
+    </kanji>
+    <kanji key='機'>
+        <meaning>machine</meaning>
+    </kanji>
+    <kanji key='規'>
+        <meaning>regulation</meaning>
+    </kanji>
+    <kanji key='寄'>
+        <meaning>approach</meaning>
+    </kanji>
+    <kanji key='机'>
+        <meaning>desk</meaning>
+    </kanji>
+    <kanji key='議'>
+        <meaning>deliberation</meaning>
+    </kanji>
+    <kanji key='技'>
+        <meaning>skill</meaning>
+    </kanji>
+    <kanji key='消'>
+        <meaning>extinguish</meaning>
+    </kanji>
+    <kanji key='利'>
+        <meaning>profit</meaning>
+    </kanji>
+    <kanji key='効'>
+        <meaning>efficiency</meaning>
+    </kanji>
+    <kanji key='兆'>
+        <meaning>portent</meaning>
+    </kanji>
+    <kanji key='刻'>
+        <meaning>engrave</meaning>
+    </kanji>
+    <kanji key='築'>
+        <meaning>construction</meaning>
+    </kanji>
+    <kanji key='競'>
+        <meaning>compete</meaning>
+    </kanji>
+    <kanji key='喫'>
+        <meaning>consume</meaning>
+    </kanji>
+    <kanji key='詰'>
+        <meaning>packed</meaning>
+    </kanji>
+    <kanji key='決'>
+        <meaning>decide</meaning>
+    </kanji>
+    <kanji key='君'>
+        <meaning>you</meaning>
+    </kanji>
+    <kanji key='逆'>
+        <meaning>inverted</meaning>
+    </kanji>
+    <kanji key='級'>
+        <meaning>grade</meaning>
+    </kanji>
+    <kanji key='球'>
+        <meaning>sphere</meaning>
+    </kanji>
+    <kanji key='求'>
+        <meaning>request</meaning>
+    </kanji>
+    <kanji key='泣'>
+        <meaning>cry</meaning>
+    </kanji>
+    <kanji key='救'>
+        <meaning>salvation</meaning>
+    </kanji>
+    <kanji key='給'>
+        <meaning>salary</meaning>
+    </kanji>
+    <kanji key='久'>
+        <meaning>long time</meaning>
+    </kanji>
+    <kanji key='旧'>
+        <meaning>old times</meaning>
+    </kanji>
+    <kanji key='吸'>
+        <meaning>suck</meaning>
+    </kanji>
+    <kanji key='許'>
+        <meaning>permit</meaning>
+    </kanji>
+    <kanji key='鯨'>
+        <meaning>whale</meaning>
+    </kanji>
+    <kanji key='清'>
+        <meaning>pure</meaning>
+    </kanji>
+    <kanji key='橋'>
+        <meaning>bridge</meaning>
+    </kanji>
+    <kanji key='共'>
+        <meaning>together</meaning>
+    </kanji>
+    <kanji key='協'>
+        <meaning>cooperation</meaning>
+    </kanji>
+    <kanji key='経'>
+        <meaning>manage</meaning>
+    </kanji>
+    <kanji key='境'>
+        <meaning>boundary</meaning>
+    </kanji>
+    <kanji key='供'>
+        <meaning>offer</meaning>
+    </kanji>
+    <kanji key='胸'>
+        <meaning>bosom</meaning>
+    </kanji>
+    <kanji key='叫'>
+        <meaning>shout</meaning>
+    </kanji>
+    <kanji key='況'>
+        <meaning>condition</meaning>
+    </kanji>
+    <kanji key='狭'>
+        <meaning>narrow</meaning>
+    </kanji>
+    <kanji key='挟'>
+        <meaning>pinch</meaning>
+    </kanji>
+    <kanji key='曲'>
+        <meaning>musical composition</meaning>
+    </kanji>
+    <kanji key='局'>
+        <meaning>office</meaning>
+    </kanji>
+    <kanji key='極'>
+        <meaning>pole</meaning>
+    </kanji>
+    <kanji key='玉'>
+        <meaning>gem</meaning>
+    </kanji>
+    <kanji key='際'>
+        <meaning>occasion</meaning>
+    </kanji>
+    <kanji key='均'>
+        <meaning>uniformity</meaning>
+    </kanji>
+    <kanji key='禁'>
+        <meaning>prohibition</meaning>
+    </kanji>
+    <kanji key='勤'>
+        <meaning>service</meaning>
+    </kanji>
+    <kanji key='区'>
+        <meaning>district</meaning>
+    </kanji>
+    <kanji key='苦'>
+        <meaning>suffering</meaning>
+    </kanji>
+    <kanji key='庫'>
+        <meaning>warehouse</meaning>
+    </kanji>
+    <kanji key='紅'>
+        <meaning>crimson</meaning>
+    </kanji>
+    <kanji key='具'>
+        <meaning>ingredients</meaning>
+    </kanji>
+    <kanji key='偶'>
+        <meaning>accidentally</meaning>
+    </kanji>
+    <kanji key='隅'>
+        <meaning>corner</meaning>
+    </kanji>
+    <kanji key='草'>
+        <meaning>grass</meaning>
+    </kanji>
+    <kanji key='薬'>
+        <meaning>medicament</meaning>
+    </kanji>
+    <kanji key='掘'>
+        <meaning>dig</meaning>
+    </kanji>
+    <kanji key='配'>
+        <meaning>distribute</meaning>
+    </kanji>
+    <kanji key='首'>
+        <meaning>neck</meaning>
+    </kanji>
+    <kanji key='組'>
+        <meaning>association</meaning>
+    </kanji>
+    <kanji key='曇'>
+        <meaning>cloudy</meaning>
+    </kanji>
+    <kanji key='蔵'>
+        <meaning>warehouse</meaning>
+    </kanji>
+    <kanji key='暮'>
+        <meaning>livelihood</meaning>
+    </kanji>
+    <kanji key='比'>
+        <meaning>compare</meaning>
+    </kanji>
+    <kanji key='訓'>
+        <meaning>instruction</meaning>
+    </kanji>
+    <kanji key='軍'>
+        <meaning>army</meaning>
+    </kanji>
+    <kanji key='群'>
+        <meaning>group</meaning>
+    </kanji>
+    <kanji key='毛'>
+        <meaning>hair</meaning>
+    </kanji>
+    <kanji key='景'>
+        <meaning>scenery</meaning>
+    </kanji>
+    <kanji key='警'>
+        <meaning>admonish</meaning>
+    </kanji>
+    <kanji key='芸'>
+        <meaning>art</meaning>
+    </kanji>
+    <kanji key='迎'>
+        <meaning>welcome</meaning>
+    </kanji>
+    <kanji key='劇'>
+        <meaning>drama</meaning>
+    </kanji>
+    <kanji key='血'>
+        <meaning>blood</meaning>
+    </kanji>
+    <kanji key='結'>
+        <meaning>tie</meaning>
+    </kanji>
+    <kanji key='険'>
+        <meaning>precipitous</meaning>
+    </kanji>
+    <kanji key='県'>
+        <meaning>prefecture</meaning>
+    </kanji>
+    <kanji key='件'>
+        <meaning>affair</meaning>
+    </kanji>
+    <kanji key='券'>
+        <meaning>ticket</meaning>
+    </kanji>
+    <kanji key='検'>
+        <meaning>examine</meaning>
+    </kanji>
+    <kanji key='権'>
+        <meaning>rights</meaning>
+    </kanji>
+    <kanji key='軒'>
+        <meaning>eaves</meaning>
+    </kanji>
+    <kanji key='原'>
+        <meaning>field</meaning>
+    </kanji>
+    <kanji key='減'>
+        <meaning>decrease</meaning>
+    </kanji>
+    <kanji key='粉'>
+        <meaning>flour</meaning>
+    </kanji>
+    <kanji key='戸'>
+        <meaning>door</meaning>
+    </kanji>
+    <kanji key='湖'>
+        <meaning>lake</meaning>
+    </kanji>
+    <kanji key='個'>
+        <meaning>individual</meaning>
+    </kanji>
+    <kanji key='呼'>
+        <meaning>call</meaning>
+    </kanji>
+    <kanji key='雇'>
+        <meaning>employ</meaning>
+    </kanji>
+    <kanji key='互'>
+        <meaning>mutual</meaning>
+    </kanji>
+    <kanji key='恋'>
+        <meaning>romance</meaning>
+    </kanji>
+    <kanji key='濃'>
+        <meaning>dense</meaning>
+    </kanji>
+    <kanji key='光'>
+        <meaning>light</meaning>
+    </kanji>
+    <kanji key='向'>
+        <meaning>over there</meaning>
+    </kanji>
+    <kanji key='幸'>
+        <meaning>happiness</meaning>
+    </kanji>
+    <kanji key='港'>
+        <meaning>harbor</meaning>
+    </kanji>
+    <kanji key='好'>
+        <meaning>like</meaning>
+    </kanji>
+    <kanji key='航'>
+        <meaning>navigate</meaning>
+    </kanji>
+    <kanji key='候'>
+        <meaning>climate</meaning>
+    </kanji>
+    <kanji key='耕'>
+        <meaning>plow</meaning>
+    </kanji>
+    <kanji key='鉱'>
+        <meaning>mineral</meaning>
+    </kanji>
+    <kanji key='講'>
+        <meaning>lecture</meaning>
+    </kanji>
+    <kanji key='更'>
+        <meaning>renew</meaning>
+    </kanji>
+    <kanji key='肯'>
+        <meaning>agreement</meaning>
+    </kanji>
+    <kanji key='郊'>
+        <meaning>suburb</meaning>
+    </kanji>
+    <kanji key='号'>
+        <meaning>signal</meaning>
+    </kanji>
+    <kanji key='被'>
+        <meaning>covering</meaning>
+    </kanji>
+    <kanji key='声'>
+        <meaning>voice</meaning>
+    </kanji>
+    <kanji key='超'>
+        <meaning>super</meaning>
+    </kanji>
+    <kanji key='氷'>
+        <meaning>ice</meaning>
+    </kanji>
+    <kanji key='凍'>
+        <meaning>frozen</meaning>
+    </kanji>
+    <kanji key='谷'>
+        <meaning>valley</meaning>
+    </kanji>
+    <kanji key='告'>
+        <meaning>tell</meaning>
+    </kanji>
+    <kanji key='腰'>
+        <meaning>waist</meaning>
+    </kanji>
+    <kanji key='骨'>
+        <meaning>bone</meaning>
+    </kanji>
+    <kanji key='断'>
+        <meaning>cut off</meaning>
+    </kanji>
+    <kanji key='細'>
+        <meaning>thin</meaning>
+    </kanji>
+    <kanji key='困'>
+        <meaning>trouble</meaning>
+    </kanji>
+    <kanji key='込'>
+        <meaning>included</meaning>
+    </kanji>
+    <kanji key='米'>
+        <meaning>rice</meaning>
+    </kanji>
+    <kanji key='殺'>
+        <meaning>kill</meaning>
+    </kanji>
+    <kanji key='怖'>
+        <meaning>fearful</meaning>
+    </kanji>
+    <kanji key='根'>
+        <meaning>root</meaning>
+    </kanji>
+    <kanji key='混'>
+        <meaning>mix</meaning>
+    </kanji>
+    <kanji key='婚'>
+        <meaning>marriage</meaning>
+    </kanji>
+    <kanji key='差'>
+        <meaning>distinction</meaning>
+    </kanji>
+    <kanji key='査'>
+        <meaning>investigation</meaning>
+    </kanji>
+    <kanji key='砂'>
+        <meaning>sand</meaning>
+    </kanji>
+    <kanji key='再'>
+        <meaning>again</meaning>
+    </kanji>
+    <kanji key='座'>
+        <meaning>seat</meaning>
+    </kanji>
+    <kanji key='才'>
+        <meaning>genius</meaning>
+    </kanji>
+    <kanji key='祭'>
+        <meaning>festival</meaning>
+    </kanji>
+    <kanji key='菜'>
+        <meaning>vegetable</meaning>
+    </kanji>
+    <kanji key='最'>
+        <meaning>most</meaning>
+    </kanji>
+    <kanji key='妻'>
+        <meaning>wife</meaning>
+    </kanji>
+    <kanji key='採'>
+        <meaning>pick</meaning>
+    </kanji>
+    <kanji key='済'>
+        <meaning>settle</meaning>
+    </kanji>
+    <kanji key='歳'>
+        <meaning>year-end</meaning>
+    </kanji>
+    <kanji key='財'>
+        <meaning>wealth</meaning>
+    </kanji>
+    <kanji key='材'>
+        <meaning>lumber</meaning>
+    </kanji>
+    <kanji key='罪'>
+        <meaning>guilt</meaning>
+    </kanji>
+    <kanji key='坂'>
+        <meaning>slope</meaning>
+    </kanji>
+    <kanji key='酒'>
+        <meaning>alcoholic drink</meaning>
+    </kanji>
+    <kanji key='探'>
+        <meaning>search</meaning>
+    </kanji>
+    <kanji key='捜'>
+        <meaning>search</meaning>
+    </kanji>
+    <kanji key='杯'>
+        <meaning>cup</meaning>
+    </kanji>
+    <kanji key='咲'>
+        <meaning>bloom</meaning>
+    </kanji>
+    <kanji key='昨'>
+        <meaning>yesterday</meaning>
+    </kanji>
+    <kanji key='冊'>
+        <meaning>counter for books</meaning>
+    </kanji>
+    <kanji key='支'>
+        <meaning>branch</meaning>
+    </kanji>
+    <kanji key='刺'>
+        <meaning>thorn</meaning>
+    </kanji>
+    <kanji key='指'>
+        <meaning>finger</meaning>
+    </kanji>
+    <kanji key='定'>
+        <meaning>determine</meaning>
+    </kanji>
+    <kanji key='札'>
+        <meaning>paper money</meaning>
+    </kanji>
+    <kanji key='刷'>
+        <meaning>printing</meaning>
+    </kanji>
+    <kanji key='察'>
+        <meaning>guess</meaning>
+    </kanji>
+    <kanji key='雑'>
+        <meaning>miscellaneous</meaning>
+    </kanji>
+    <kanji key='様'>
+        <meaning>mode</meaning>
+    </kanji>
+    <kanji key='冷'>
+        <meaning>cold</meaning>
+    </kanji>
+    <kanji key='皿'>
+        <meaning>dish</meaning>
+    </kanji>
+    <kanji key='触'>
+        <meaning>contact</meaning>
+    </kanji>
+    <kanji key='算'>
+        <meaning>calculate</meaning>
+    </kanji>
+    <kanji key='参'>
+        <meaning>participate</meaning>
+    </kanji>
+    <kanji key='散'>
+        <meaning>scatter</meaning>
+    </kanji>
+    <kanji key='賛'>
+        <meaning>approve</meaning>
+    </kanji>
+    <kanji key='残'>
+        <meaning>remainder</meaning>
+    </kanji>
+    <kanji key='次'>
+        <meaning>next</meaning>
+    </kanji>
+    <kanji key='歯'>
+        <meaning>tooth</meaning>
+    </kanji>
+    <kanji key='史'>
+        <meaning>history</meaning>
+    </kanji>
+    <kanji key='示'>
+        <meaning>indicate</meaning>
+    </kanji>
+    <kanji key='師'>
+        <meaning>expert</meaning>
+    </kanji>
+    <kanji key='資'>
+        <meaning>resources</meaning>
+    </kanji>
+    <kanji key='詞'>
+        <meaning>poetry</meaning>
+    </kanji>
+    <kanji key='誌'>
+        <meaning>magazine</meaning>
+    </kanji>
+    <kanji key='路'>
+        <meaning>road</meaning>
+    </kanji>
+    <kanji key='耳'>
+        <meaning>ear</meaning>
+    </kanji>
+    <kanji key='寺'>
+        <meaning>buddhist temple</meaning>
+    </kanji>
+    <kanji key='児'>
+        <meaning>child</meaning>
+    </kanji>
+    <kanji key='辞'>
+        <meaning>resign</meaning>
+    </kanji>
+    <kanji key='似'>
+        <meaning>similar</meaning>
+    </kanji>
+    <kanji key='除'>
+        <meaning>exclude</meaning>
+    </kanji>
+    <kanji key='式'>
+        <meaning>ceremony</meaning>
+    </kanji>
+    <kanji key='識'>
+        <meaning>discernment</meaning>
+    </kanji>
+    <kanji key='直'>
+        <meaning>straight</meaning>
+    </kanji>
+    <kanji key='静'>
+        <meaning>quiet</meaning>
+    </kanji>
+    <kanji key='滴'>
+        <meaning>drop</meaning>
+    </kanji>
+    <kanji key='沈'>
+        <meaning>sink</meaning>
+    </kanji>
+    <kanji key='湿'>
+        <meaning>damp</meaning>
+    </kanji>
+    <kanji key='実'>
+        <meaning>reality</meaning>
+    </kanji>
+    <kanji key='島'>
+        <meaning>island</meaning>
+    </kanji>
+    <kanji key='閉'>
+        <meaning>closed</meaning>
+    </kanji>
+    <kanji key='捨'>
+        <meaning>throw away</meaning>
+    </kanji>
+    <kanji key='昔'>
+        <meaning>long ago</meaning>
+    </kanji>
+    <kanji key='弱'>
+        <meaning>weak</meaning>
+    </kanji>
+    <kanji key='若'>
+        <meaning>young</meaning>
+    </kanji>
+    <kanji key='守'>
+        <meaning>protect</meaning>
+    </kanji>
+    <kanji key='取'>
+        <meaning>take</meaning>
+    </kanji>
+    <kanji key='種'>
+        <meaning>seed</meaning>
+    </kanji>
+    <kanji key='州'>
+        <meaning>state</meaning>
+    </kanji>
+    <kanji key='拾'>
+        <meaning>pick up</meaning>
+    </kanji>
+    <kanji key='周'>
+        <meaning>circumference</meaning>
+    </kanji>
+    <kanji key='船'>
+        <meaning>boat</meaning>
+    </kanji>
+    <kanji key='柔'>
+        <meaning>tender</meaning>
+    </kanji>
+    <kanji key='宿'>
+        <meaning>inn</meaning>
+    </kanji>
+    <kanji key='述'>
+        <meaning>mention</meaning>
+    </kanji>
+    <kanji key='術'>
+        <meaning>art</meaning>
+    </kanji>
+    <kanji key='順'>
+        <meaning>obey</meaning>
+    </kanji>
+    <kanji key='準'>
+        <meaning>standard</meaning>
+    </kanji>
+    <kanji key='純'>
+        <meaning>genuine</meaning>
+    </kanji>
+    <kanji key='所'>
+        <meaning>place</meaning>
+    </kanji>
+    <kanji key='処'>
+        <meaning>dispose</meaning>
+    </kanji>
+    <kanji key='署'>
+        <meaning>government office</meaning>
+    </kanji>
+    <kanji key='諸'>
+        <meaning>various</meaning>
+    </kanji>
+    <kanji key='助'>
+        <meaning>help</meaning>
+    </kanji>
+    <kanji key='章'>
+        <meaning>chapter</meaning>
+    </kanji>
+    <kanji key='焼'>
+        <meaning>bake</meaning>
+    </kanji>
+    <kanji key='象'>
+        <meaning>elephant</meaning>
+    </kanji>
+    <kanji key='照'>
+        <meaning>illuminate</meaning>
+    </kanji>
+    <kanji key='賞'>
+        <meaning>prize</meaning>
+    </kanji>
+    <kanji key='招'>
+        <meaning>invitation</meaning>
+    </kanji>
+    <kanji key='性'>
+        <meaning>gender</meaning>
+    </kanji>
+    <kanji key='将'>
+        <meaning>leader</meaning>
+    </kanji>
+    <kanji key='装'>
+        <meaning>dress</meaning>
+    </kanji>
+    <kanji key='召'>
+        <meaning>summon</meaning>
+    </kanji>
+    <kanji key='床'>
+        <meaning>bed</meaning>
+    </kanji>
+    <kanji key='姓'>
+        <meaning>surname</meaning>
+    </kanji>
+    <kanji key='昇'>
+        <meaning>rise up</meaning>
+    </kanji>
+    <kanji key='紹'>
+        <meaning>introduce</meaning>
+    </kanji>
+    <kanji key='星'>
+        <meaning>star</meaning>
+    </kanji>
+    <kanji key='政'>
+        <meaning>politics</meaning>
+    </kanji>
+    <kanji key='精'>
+        <meaning>refined</meaning>
+    </kanji>
+    <kanji key='乗'>
+        <meaning>ride</meaning>
+    </kanji>
+    <kanji key='状'>
+        <meaning>form</meaning>
+    </kanji>
+    <kanji key='常'>
+        <meaning>normal</meaning>
+    </kanji>
+    <kanji key='情'>
+        <meaning>feelings</meaning>
+    </kanji>
+    <kanji key='城'>
+        <meaning>castle</meaning>
+    </kanji>
+    <kanji key='蒸'>
+        <meaning>steam</meaning>
+    </kanji>
+    <kanji key='畳'>
+        <meaning>tatami mat</meaning>
+    </kanji>
+    <kanji key='成'>
+        <meaning>become</meaning>
+    </kanji>
+    <kanji key='職'>
+        <meaning>employment</meaning>
+    </kanji>
+    <kanji key='調'>
+        <meaning>investigation</meaning>
+    </kanji>
+    <kanji key='退'>
+        <meaning>retreat</meaning>
+    </kanji>
+    <kanji key='森'>
+        <meaning>forest</meaning>
+    </kanji>
+    <kanji key='申'>
+        <meaning>say</meaning>
+    </kanji>
+    <kanji key='身'>
+        <meaning>body</meaning>
+    </kanji>
+    <kanji key='深'>
+        <meaning>deep</meaning>
+    </kanji>
+    <kanji key='進'>
+        <meaning>advance</meaning>
+    </kanji>
+    <kanji key='臣'>
+        <meaning>retainer</meaning>
+    </kanji>
+    <kanji key='信'>
+        <meaning>trust</meaning>
+    </kanji>
+    <kanji key='針'>
+        <meaning>needle</meaning>
+    </kanji>
+    <kanji key='伸'>
+        <meaning>stretch</meaning>
+    </kanji>
+    <kanji key='寝'>
+        <meaning>sleep</meaning>
+    </kanji>
+    <kanji key='震'>
+        <meaning>quake</meaning>
+    </kanji>
+    <kanji key='吹'>
+        <meaning>blow</meaning>
+    </kanji>
+    <kanji key='末'>
+        <meaning>end</meaning>
+    </kanji>
+    <kanji key='優'>
+        <meaning>superior</meaning>
+    </kanji>
+    <kanji key='涼'>
+        <meaning>refreshing</meaning>
+    </kanji>
+    <kanji key='炭'>
+        <meaning>charcoal</meaning>
+    </kanji>
+    <kanji key='速'>
+        <meaning>fast</meaning>
+    </kanji>
+    <kanji key='背'>
+        <meaning>back</meaning>
+    </kanji>
+    <kanji key='晴'>
+        <meaning>clear up</meaning>
+    </kanji>
+    <kanji key='制'>
+        <meaning>system</meaning>
+    </kanji>
+    <kanji key='製'>
+        <meaning>manufacture</meaning>
+    </kanji>
+    <kanji key='税'>
+        <meaning>tax</meaning>
+    </kanji>
+    <kanji key='説'>
+        <meaning>theory</meaning>
+    </kanji>
+    <kanji key='席'>
+        <meaning>seat</meaning>
+    </kanji>
+    <kanji key='積'>
+        <meaning>accumulate</meaning>
+    </kanji>
+    <kanji key='責'>
+        <meaning>blame</meaning>
+    </kanji>
+    <kanji key='績'>
+        <meaning>achievements</meaning>
+    </kanji>
+    <kanji key='隻'>
+        <meaning>counter for ships</meaning>
+    </kanji>
+    <kanji key='籍'>
+        <meaning>enroll</meaning>
+    </kanji>
+    <kanji key='雪'>
+        <meaning>snow</meaning>
+    </kanji>
+    <kanji key='設'>
+        <meaning>establishment</meaning>
+    </kanji>
+    <kanji key='接'>
+        <meaning>contact</meaning>
+    </kanji>
+    <kanji key='絶'>
+        <meaning>discontinue</meaning>
+    </kanji>
+    <kanji key='線'>
+        <meaning>line</meaning>
+    </kanji>
+    <kanji key='専'>
+        <meaning>specialty</meaning>
+    </kanji>
+    <kanji key='全'>
+        <meaning>whole</meaning>
+    </kanji>
+    <kanji key='然'>
+        <meaning>however</meaning>
+    </kanji>
+    <kanji key='祖'>
+        <meaning>ancestor</meaning>
+    </kanji>
+    <kanji key='想'>
+        <meaning>concept</meaning>
+    </kanji>
+    <kanji key='総'>
+        <meaning>total</meaning>
+    </kanji>
+    <kanji key='窓'>
+        <meaning>window</meaning>
+    </kanji>
+    <kanji key='層'>
+        <meaning>layer</meaning>
+    </kanji>
+    <kanji key='双'>
+        <meaning>pair</meaning>
+    </kanji>
+    <kanji key='掃'>
+        <meaning>sweep</meaning>
+    </kanji>
+    <kanji key='燥'>
+        <meaning>parch</meaning>
+    </kanji>
+    <kanji key='造'>
+        <meaning>make</meaning>
+    </kanji>
+    <kanji key='増'>
+        <meaning>increase</meaning>
+    </kanji>
+    <kanji key='像'>
+        <meaning>statue</meaning>
+    </kanji>
+    <kanji key='臓'>
+        <meaning>entrails</meaning>
+    </kanji>
+    <kanji key='憎'>
+        <meaning>hate</meaning>
+    </kanji>
+    <kanji key='束'>
+        <meaning>bundle</meaning>
+    </kanji>
+    <kanji key='則'>
+        <meaning>conform</meaning>
+    </kanji>
+    <kanji key='測'>
+        <meaning>measure</meaning>
+    </kanji>
+    <kanji key='続'>
+        <meaning>continue</meaning>
+    </kanji>
+    <kanji key='底'>
+        <meaning>bottom</meaning>
+    </kanji>
+    <kanji key='損'>
+        <meaning>loss</meaning>
+    </kanji>
+    <kanji key='卒'>
+        <meaning>graduate</meaning>
+    </kanji>
+    <kanji key='率'>
+        <meaning>ratio</meaning>
+    </kanji>
+    <kanji key='備'>
+        <meaning>provide</meaning>
+    </kanji>
+    <kanji key='反'>
+        <meaning>anti-</meaning>
+    </kanji>
+    <kanji key='村'>
+        <meaning>village</meaning>
+    </kanji>
+    <kanji key='孫'>
+        <meaning>grandchild</meaning>
+    </kanji>
+    <kanji key='存'>
+        <meaning>suppose</meaning>
+    </kanji>
+    <kanji key='尊'>
+        <meaning>revered</meaning>
+    </kanji>
+    <kanji key='太'>
+        <meaning>thick</meaning>
+    </kanji>
+    <kanji key='袋'>
+        <meaning>sack</meaning>
+    </kanji>
+    <kanji key='第'>
+        <meaning>ordinal</meaning>
+    </kanji>
+    <kanji key='平'>
+        <meaning>flat</meaning>
+    </kanji>
+    <kanji key='倒'>
+        <meaning>overthrow</meaning>
+    </kanji>
+    <kanji key='宝'>
+        <meaning>treasure</meaning>
+    </kanji>
+    <kanji key='宅'>
+        <meaning>home</meaning>
+    </kanji>
+    <kanji key='濯'>
+        <meaning>laundry</meaning>
+    </kanji>
+    <kanji key='竹'>
+        <meaning>bamboo</meaning>
+    </kanji>
+    <kanji key='達'>
+        <meaning>attain</meaning>
+    </kanji>
+    <kanji key='例'>
+        <meaning>example</meaning>
+    </kanji>
+    <kanji key='頼'>
+        <meaning>trust</meaning>
+    </kanji>
+    <kanji key='卵'>
+        <meaning>egg</meaning>
+    </kanji>
+    <kanji key='民'>
+        <meaning>people</meaning>
+    </kanji>
+    <kanji key='便'>
+        <meaning>convenience</meaning>
+    </kanji>
+    <kanji key='短'>
+        <meaning>short</meaning>
+    </kanji>
+    <kanji key='単'>
+        <meaning>single</meaning>
+    </kanji>
+    <kanji key='談'>
+        <meaning>discuss</meaning>
+    </kanji>
+    <kanji key='段'>
+        <meaning>step</meaning>
+    </kanji>
+    <kanji key='乳'>
+        <meaning>milk</meaning>
+    </kanji>
+    <kanji key='恥'>
+        <meaning>shame</meaning>
+    </kanji>
+    <kanji key='畜'>
+        <meaning>livestock</meaning>
+    </kanji>
+    <kanji key='虫'>
+        <meaning>insect</meaning>
+    </kanji>
+    <kanji key='柱'>
+        <meaning>pillar</meaning>
+    </kanji>
+    <kanji key='仲'>
+        <meaning>relationship</meaning>
+    </kanji>
+    <kanji key='宙'>
+        <meaning>mid-air</meaning>
+    </kanji>
+    <kanji key='駐'>
+        <meaning>stopover</meaning>
+    </kanji>
+    <kanji key='貯'>
+        <meaning>savings</meaning>
+    </kanji>
+    <kanji key='庁'>
+        <meaning>government office</meaning>
+    </kanji>
+    <kanji key='珍'>
+        <meaning>rare</meaning>
+    </kanji>
+    <kanji key='都'>
+        <meaning>metropolis</meaning>
+    </kanji>
+    <kanji key='費'>
+        <meaning>expense</meaning>
+    </kanji>
+    <kanji key='捕'>
+        <meaning>catch</meaning>
+    </kanji>
+    <kanji key='疲'>
+        <meaning>exhausted</meaning>
+    </kanji>
+    <kanji key='付'>
+        <meaning>attach</meaning>
+    </kanji>
+    <kanji key='突'>
+        <meaning>stab</meaning>
+    </kanji>
+    <kanji key='包'>
+        <meaning>wrap</meaning>
+    </kanji>
+    <kanji key='努'>
+        <meaning>toil</meaning>
+    </kanji>
+    <kanji key='務'>
+        <meaning>duty</meaning>
+    </kanji>
+    <kanji key='募'>
+        <meaning>recruit</meaning>
+    </kanji>
+    <kanji key='粒'>
+        <meaning>grains</meaning>
+    </kanji>
+    <kanji key='連'>
+        <meaning>take along</meaning>
+    </kanji>
+    <kanji key='庭'>
+        <meaning>garden</meaning>
+    </kanji>
+    <kanji key='低'>
+        <meaning>low</meaning>
+    </kanji>
+    <kanji key='停'>
+        <meaning>halt</meaning>
+    </kanji>
+    <kanji key='程'>
+        <meaning>extent</meaning>
+    </kanji>
+    <kanji key='泥'>
+        <meaning>mud</meaning>
+    </kanji>
+    <kanji key='的'>
+        <meaning>target</meaning>
+    </kanji>
+    <kanji key='適'>
+        <meaning>suitable</meaning>
+    </kanji>
+    <kanji key='鉄'>
+        <meaning>iron</meaning>
+    </kanji>
+    <kanji key='点'>
+        <meaning>point</meaning>
+    </kanji>
+    <kanji key='殿'>
+        <meaning>Mr.</meaning>
+    </kanji>
+    <kanji key='登'>
+        <meaning>climb</meaning>
+    </kanji>
+    <kanji key='徒'>
+        <meaning>junior</meaning>
+    </kanji>
+    <kanji key='途'>
+        <meaning>route</meaning>
+    </kanji>
+    <kanji key='渡'>
+        <meaning>go across</meaning>
+    </kanji>
+    <kanji key='塗'>
+        <meaning>paint</meaning>
+    </kanji>
+    <kanji key='投'>
+        <meaning>throw</meaning>
+    </kanji>
+    <kanji key='等'>
+        <meaning>etc</meaning>
+    </kanji>
+    <kanji key='湯'>
+        <meaning>hot water</meaning>
+    </kanji>
+    <kanji key='灯'>
+        <meaning>lamp</meaning>
+    </kanji>
+    <kanji key='党'>
+        <meaning>group</meaning>
+    </kanji>
+    <kanji key='到'>
+        <meaning>arrival</meaning>
+    </kanji>
+    <kanji key='逃'>
+        <meaning>escape</meaning>
+    </kanji>
+    <kanji key='盗'>
+        <meaning>steal</meaning>
+    </kanji>
+    <kanji key='筒'>
+        <meaning>cylinder</meaning>
+    </kanji>
+    <kanji key='塔'>
+        <meaning>tower</meaning>
+    </kanji>
+    <kanji key='童'>
+        <meaning>juvenile</meaning>
+    </kanji>
+    <kanji key='働'>
+        <meaning>work</meaning>
+    </kanji>
+    <kanji key='銅'>
+        <meaning>copper</meaning>
+    </kanji>
+    <kanji key='導'>
+        <meaning>guide</meaning>
+    </kanji>
+    <kanji key='溶'>
+        <meaning>melt</meaning>
+    </kanji>
+    <kanji key='毒'>
+        <meaning>poison</meaning>
+    </kanji>
+    <kanji key='独'>
+        <meaning>alone</meaning>
+    </kanji>
+    <kanji key='届'>
+        <meaning>deliver</meaning>
+    </kanji>
+    <kanji key='飛'>
+        <meaning>fly</meaning>
+    </kanji>
+    <kanji key='留'>
+        <meaning>detain</meaning>
+    </kanji>
+    <kanji key='泊'>
+        <meaning>overnight</meaning>
+    </kanji>
+    <kanji key='富'>
+        <meaning>rich</meaning>
+    </kanji>
+    <kanji key='鈍'>
+        <meaning>dull</meaning>
+    </kanji>
+    <kanji key='無'>
+        <meaning>nothing</meaning>
+    </kanji>
+    <kanji key='亡'>
+        <meaning>deceased</meaning>
+    </kanji>
+    <kanji key='流'>
+        <meaning>stream</meaning>
+    </kanji>
+    <kanji key='鳴'>
+        <meaning>chirp</meaning>
+    </kanji>
+    <kanji key='波'>
+        <meaning>wave</meaning>
+    </kanji>
+    <kanji key='並'>
+        <meaning>line-up</meaning>
+    </kanji>
+    <kanji key='涙'>
+        <meaning>tears</meaning>
+    </kanji>
+    <kanji key='悩'>
+        <meaning>trouble</meaning>
+    </kanji>
+    <kanji key='軟'>
+        <meaning>soft</meaning>
+    </kanji>
+    <kanji key='任'>
+        <meaning>responsability</meaning>
+    </kanji>
+    <kanji key='認'>
+        <meaning>recognize</meaning>
+    </kanji>
+    <kanji key='抜'>
+        <meaning>omit</meaning>
+    </kanji>
+    <kanji key='布'>
+        <meaning>cloth</meaning>
+    </kanji>
+    <kanji key='猫'>
+        <meaning>cat</meaning>
+    </kanji>
+    <kanji key='眠'>
+        <meaning>sleep</meaning>
+    </kanji>
+    <kanji key='練'>
+        <meaning>practice</meaning>
+    </kanji>
+    <kanji key='念'>
+        <meaning>thought</meaning>
+    </kanji>
+    <kanji key='燃'>
+        <meaning>burn</meaning>
+    </kanji>
+    <kanji key='農'>
+        <meaning>farming</meaning>
+    </kanji>
+    <kanji key='能'>
+        <meaning>ability</meaning>
+    </kanji>
+    <kanji key='脳'>
+        <meaning>brain</meaning>
+    </kanji>
+    <kanji key='望'>
+        <meaning>hope</meaning>
+    </kanji>
+    <kanji key='葉'>
+        <meaning>leaf</meaning>
+    </kanji>
+    <kanji key='破'>
+        <meaning>rend</meaning>
+    </kanji>
+    <kanji key='敗'>
+        <meaning>lose</meaning>
+    </kanji>
+    <kanji key='倍'>
+        <meaning>double</meaning>
+    </kanji>
+    <kanji key='量'>
+        <meaning>quantity</meaning>
+    </kanji>
+    <kanji key='麦'>
+        <meaning>wheat</meaning>
+    </kanji>
+    <kanji key='爆'>
+        <meaning>explode</meaning>
+    </kanji>
+    <kanji key='箱'>
+        <meaning>box</meaning>
+    </kanji>
+    <kanji key='畑'>
+        <meaning>farm</meaning>
+    </kanji>
+    <kanji key='肌'>
+        <meaning>skin</meaning>
+    </kanji>
+    <kanji key='法'>
+        <meaning>law</meaning>
+    </kanji>
+    <kanji key='鼻'>
+        <meaning>nose</meaning>
+    </kanji>
+    <kanji key='放'>
+        <meaning>release</meaning>
+    </kanji>
+    <kanji key='幅'>
+        <meaning>width</meaning>
+    </kanji>
+    <kanji key='林'>
+        <meaning>woods</meaning>
+    </kanji>
+    <kanji key='腹'>
+        <meaning>belly</meaning>
+    </kanji>
+    <kanji key='払'>
+        <meaning>pay</meaning>
+    </kanji>
+    <kanji key='判'>
+        <meaning>judge</meaning>
+    </kanji>
+    <kanji key='版'>
+        <meaning>edition</meaning>
+    </kanji>
+    <kanji key='般'>
+        <meaning>generally</meaning>
+    </kanji>
+    <kanji key='販'>
+        <meaning>sales</meaning>
+    </kanji>
+    <kanji key='番'>
+        <meaning>turn</meaning>
+    </kanji>
+    <kanji key='晩'>
+        <meaning>evening</meaning>
+    </kanji>
+    <kanji key='非'>
+        <meaning>negative</meaning>
+    </kanji>
+    <kanji key='匹'>
+        <meaning>equal</meaning>
+    </kanji>
+    <kanji key='筆'>
+        <meaning>writing brush</meaning>
+    </kanji>
+    <kanji key='兵'>
+        <meaning>soldier</meaning>
+    </kanji>
+    <kanji key='秒'>
+        <meaning>seconds</meaning>
+    </kanji>
+    <kanji key='貧'>
+        <meaning>poor</meaning>
+    </kanji>
+    <kanji key='瓶'>
+        <meaning>bottle</meaning>
+    </kanji>
+    <kanji key='府'>
+        <meaning>prefecture</meaning>
+    </kanji>
+    <kanji key='婦'>
+        <meaning>woman</meaning>
+    </kanji>
+    <kanji key='符'>
+        <meaning>sign</meaning>
+    </kanji>
+    <kanji key='普'>
+        <meaning>universal</meaning>
+    </kanji>
+    <kanji key='膚'>
+        <meaning>skin</meaning>
+    </kanji>
+    <kanji key='部'>
+        <meaning>department</meaning>
+    </kanji>
+    <kanji key='武'>
+        <meaning>military</meaning>
+    </kanji>
+    <kanji key='舞'>
+        <meaning>dance</meaning>
+    </kanji>
+    <kanji key='封'>
+        <meaning>seal</meaning>
+    </kanji>
+    <kanji key='福'>
+        <meaning>blessing</meaning>
+    </kanji>
+    <kanji key='副'>
+        <meaning>secondary</meaning>
+    </kanji>
+    <kanji key='復'>
+        <meaning>restore</meaning>
+    </kanji>
+    <kanji key='複'>
+        <meaning>duplicate</meaning>
+    </kanji>
+    <kanji key='防'>
+        <meaning>prevent</meaning>
+    </kanji>
+    <kanji key='沸'>
+        <meaning>boil</meaning>
+    </kanji>
+    <kanji key='仏'>
+        <meaning>Buddha</meaning>
+    </kanji>
+    <kanji key='報'>
+        <meaning>report</meaning>
+    </kanji>
+    <kanji key='豊'>
+        <meaning>abundant</meaning>
+    </kanji>
+    <kanji key='貿'>
+        <meaning>trade</meaning>
+    </kanji>
+    <kanji key='忘'>
+        <meaning>forget</meaning>
+    </kanji>
+    <kanji key='棒'>
+        <meaning>stick</meaning>
+    </kanji>
+    <kanji key='坊'>
+        <meaning>boy</meaning>
+    </kanji>
+    <kanji key='帽'>
+        <meaning>cap</meaning>
+    </kanji>
+    <kanji key='欲'>
+        <meaning>desire</meaning>
+    </kanji>
+    <kanji key='磨'>
+        <meaning>polish</meaning>
+    </kanji>
+    <kanji key='枚'>
+        <meaning>sheet</meaning>
+    </kanji>
+    <kanji key='迷'>
+        <meaning>astray</meaning>
+    </kanji>
+    <kanji key='満'>
+        <meaning>full</meaning>
+    </kanji>
+    <kanji key='未'>
+        <meaning>not yet</meaning>
+    </kanji>
+    <kanji key='乱'>
+        <meaning>riot</meaning>
+    </kanji>
+    <kanji key='緑'>
+        <meaning>green</meaning>
+    </kanji>
+    <kanji key='夢'>
+        <meaning>dream</meaning>
+    </kanji>
+    <kanji key='娘'>
+        <meaning>daughter</meaning>
+    </kanji>
+    <kanji key='綿'>
+        <meaning>cotton</meaning>
+    </kanji>
+    <kanji key='戻'>
+        <meaning>return</meaning>
+    </kanji>
+    <kanji key='約'>
+        <meaning>promise</meaning>
+    </kanji>
+    <kanji key='由'>
+        <meaning>reason</meaning>
+    </kanji>
+    <kanji key='輸'>
+        <meaning>transport</meaning>
+    </kanji>
+    <kanji key='郵'>
+        <meaning>mail</meaning>
+    </kanji>
+    <kanji key='予'>
+        <meaning>in advance</meaning>
+    </kanji>
+    <kanji key='良'>
+        <meaning>good</meaning>
+    </kanji>
+    <kanji key='陽'>
+        <meaning>sunshine</meaning>
+    </kanji>
+    <kanji key='容'>
+        <meaning>contain</meaning>
+    </kanji>
+    <kanji key='翌'>
+        <meaning>the following</meaning>
+    </kanji>
+    <kanji key='礼'>
+        <meaning>thanks</meaning>
+    </kanji>
+    <kanji key='陸'>
+        <meaning>land</meaning>
+    </kanji>
+    <kanji key='律'>
+        <meaning>law</meaning>
+    </kanji>
+    <kanji key='略'>
+        <meaning>abbreviation</meaning>
+    </kanji>
+    <kanji key='両'>
+        <meaning>both</meaning>
+    </kanji>
+    <kanji key='領'>
+        <meaning>territory</meaning>
+    </kanji>
+    <kanji key='了'>
+        <meaning>finish</meaning>
+    </kanji>
+    <kanji key='療'>
+        <meaning>treatment</meaning>
+    </kanji>
+    <kanji key='輪'>
+        <meaning>wheel</meaning>
+    </kanji>
+    <kanji key='類'>
+        <meaning>kind</meaning>
+    </kanji>
+    <kanji key='令'>
+        <meaning>command</meaning>
+    </kanji>
+    <kanji key='零'>
+        <meaning>zero</meaning>
+    </kanji>
+    <kanji key='齢'>
+        <meaning>age</meaning>
+    </kanji>
+    <kanji key='歴'>
+        <meaning>history</meaning>
+    </kanji>
+    <kanji key='列'>
+        <meaning>row</meaning>
+    </kanji>
+    <kanji key='労'>
+        <meaning>labour</meaning>
+    </kanji>
+    <kanji key='録'>
+        <meaning>record</meaning>
+    </kanji>
+    <kanji key='論'>
+        <meaning>argument</meaning>
+    </kanji>
+    <kanji key='湾'>
+        <meaning>gulf</meaning>
+    </kanji>
+    <kanji key='他'>
+        <meaning>other</meaning>
+    </kanji>
+    <kanji key='伝'>
+        <meaning>transmit</meaning>
+    </kanji>
+    <kanji key='顔'>
+        <meaning>face</meaning>
+    </kanji>
+    <kanji key='団'>
+        <meaning>group</meaning>
+    </kanji>
+    <kanji key='対'>
+        <meaning>opposite</meaning>
+    </kanji>
+    <kanji key='舟'>
+        <meaning>boat</meaning>
+    </kanji>
+    <kanji key='雲'>
+        <meaning>cloud</meaning>
+    </kanji>
+    <kanji key='巨'>
+        <meaning>gigantic</meaning>
+    </kanji>
+</xml>
