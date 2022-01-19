@@ -7,5 +7,6 @@ https://www.autohotkey.com/boards/viewtopic.php?t=31409
 
 
 Extras:
+
 Voice for kanjis (TTS).
 Quick Jisho search.
