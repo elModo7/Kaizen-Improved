@@ -633,7 +633,7 @@ openJisho:
     ;~ Run, % A_ScriptDir "/lib/web_embebida.ahk https://jisho.org/search/" Kanji ; Deprecated
     if(!pipa)
         Gosub,init
-    url = % "https://jisho.org/search/" Kanji
+    url = % "https://jisho.org/search/" Kanji "%23kanji"
     WB.Navigate(url)
     loop
       If !WB.busy
